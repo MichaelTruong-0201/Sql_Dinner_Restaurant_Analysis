@@ -1,5 +1,9 @@
 # 🍽️ Phân Tích Doanh Thu và Hoạt Động Của Nhà Hàng Ăn Tối Danny (SQL + Azure Data Studio)
 
+## 🎓 Tác giả
+- Tên: Trương Trấn An
+- Email: truongtranan1017@gmail.com
+
 ## 📌 Mục tiêu dự án
 Dự án nhằm phân tích dữ liệu vận hành của nhà hàng **Danny Dinner** để:
 - Hiểu rõ hành vi khách hàng và mức độ chi tiêu
